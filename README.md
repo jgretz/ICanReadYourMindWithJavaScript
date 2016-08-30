@@ -1,4 +1,4 @@
-# I Can Read Your Mind With Javascript
+# I Can Read Your Mind With JavaScript
 ## Abstract
 "Think of a number ...", "Take a card, any card ...", "Write down your favorite color ..." - for years, crowds have been amazed as magicians have seemingly read an audience member's mind. Although entertaining, these tricks were based on probability and slight of hand not true magic. The need for this facade is now over as the time has come to teach a computer to literally read minds.
 
